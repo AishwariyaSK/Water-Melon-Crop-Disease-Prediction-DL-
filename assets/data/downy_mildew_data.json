@@ -1,0 +1,13 @@
+{
+    "type": "downey_mildew_data",
+    "symptoms": [
+        "Yellow spots on top of leaves.",
+        "Gray fuzz under leaves.",
+        "Leaves curl and turn brown."
+    ],
+    "treatment": [
+        "Remove and burn infected leaves.",
+        "Use fungicide early in the season.",
+        "Ensure plants have good air flow."
+    ]
+}

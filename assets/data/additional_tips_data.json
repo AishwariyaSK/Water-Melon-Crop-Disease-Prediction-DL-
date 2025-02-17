@@ -1,0 +1,17 @@
+{
+    "type": "additional_tips",
+    "prevention_tips": [
+        "Check plants regularly for signs of disease.",
+        "Keep garden tools clean to prevent disease spread."
+    ],
+    "environmental_conditions": [
+        "Diseases spread more in wet and humid weather."
+    ],
+    "cultural_practices": [
+        "Avoid planting watermelons in the same spot every year.",
+        "Use drip irrigation to keep leaves dry."
+    ],
+    "impact": [
+        "Diseases can lower crop yield and fruit quality."
+    ]
+}
